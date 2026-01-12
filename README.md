@@ -1,13 +1,11 @@
 # Red-Blocks-intern-assessment
 
 Backend: ASP.NET Core API
-- Location: Desktop\TaskAPI\
 - Run: Press F5 in Visual Studio
 - URL: https://localhost:7191
 - Endpoints: GET /api/tasks, POST /api/tasks
 
 Frontend: React App
-- Location: Desktop\TaskApp\
 - Run: npm install then npm start
 - URL: http://localhost:3000
 
